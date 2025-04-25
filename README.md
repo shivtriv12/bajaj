@@ -32,9 +32,9 @@ A modern, interactive web application built with **React**, **Vite**, and **Type
 _(Add screenshots of the application UI here. You can embed images using Markdown syntax:)_
 
 ```markdown
-![Home Page with Functional features](image-2.png)
-![pop up card](image.png)
-![search and Query Param functionality](image-3.png)
+![Home Page with Functional features](./image-2.png)
+![pop up card](./image-1.png)
+![search and Query Param functionality](./image-3.png)
 ```
 
 ## Tech Stack
